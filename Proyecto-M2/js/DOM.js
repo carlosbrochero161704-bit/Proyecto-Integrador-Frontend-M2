@@ -28,6 +28,7 @@ function estaAprobado(nota) {
   return false;
 }
 
+<<<<<<< HEAD
 /* PARTE 2: MOSTRAR DATOS EN LA PÁGINA */
 
 // Crea una celda y la agrega a una fila de la tabla.
@@ -159,3 +160,5 @@ function actualizarPagina() {
   actualizarResumen();
 }
 
+=======
+>>>>>>> 1a6ccbc66703b7fda1181b24a1d893b938d26d4b
